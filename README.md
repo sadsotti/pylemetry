@@ -96,6 +96,7 @@ CRITICAL: Unencrypted sensitive data (Passwords/SQLi)
 
 ## 📄 License
 
-This project is released under the **MIT License**.
+This project is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-© 2026 Lorenzo Sottile. Made by Me with ♡.
+---
+*© 2026 Lorenzo Sottile. Made by Me with ♡.*
